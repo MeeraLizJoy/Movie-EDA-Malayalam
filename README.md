@@ -19,3 +19,7 @@ Instructions to set up the environment and run the analysis.
 - Used only movies with realistic vote counts for "top-rated" analysis, to avoid small sample rating bias.
 - Data may contain minor noise due to global title matches; future work includes integrating director/cast metadata.
 
+# Dataset
+- Wikipedea scraping
+- IMDB 
+
